@@ -1,0 +1,6 @@
+Sarvar,34
+Ravshan,32
+Aziz,13
+Jamshid,45
+Alisher,67
+Jasur,18
